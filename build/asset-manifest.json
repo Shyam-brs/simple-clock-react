@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/buildriseshine/reactjs/simple-clock/static/css/main.7dbb678e.css",
-    "main.js": "/buildriseshine/reactjs/simple-clock/static/js/main.19da3136.js",
-    "static/js/787.0157ba9a.chunk.js": "/buildriseshine/reactjs/simple-clock/static/js/787.0157ba9a.chunk.js",
-    "static/media/BG.png": "/buildriseshine/reactjs/simple-clock/static/media/BG.0805d1c579b3eb137695.png",
-    "index.html": "/buildriseshine/reactjs/simple-clock/index.html",
-    "main.7dbb678e.css.map": "/buildriseshine/reactjs/simple-clock/static/css/main.7dbb678e.css.map",
-    "main.19da3136.js.map": "/buildriseshine/reactjs/simple-clock/static/js/main.19da3136.js.map",
-    "787.0157ba9a.chunk.js.map": "/buildriseshine/reactjs/simple-clock/static/js/787.0157ba9a.chunk.js.map"
+    "main.css": "/simple-clock-react/static/css/main.ef734595.css",
+    "main.js": "/simple-clock-react/static/js/main.b2674f3f.js",
+    "static/js/787.0157ba9a.chunk.js": "/simple-clock-react/static/js/787.0157ba9a.chunk.js",
+    "static/media/bg.jpg": "/simple-clock-react/static/media/bg.0ea8bfcc59c475bdf394.jpg",
+    "index.html": "/simple-clock-react/index.html",
+    "main.ef734595.css.map": "/simple-clock-react/static/css/main.ef734595.css.map",
+    "main.b2674f3f.js.map": "/simple-clock-react/static/js/main.b2674f3f.js.map",
+    "787.0157ba9a.chunk.js.map": "/simple-clock-react/static/js/787.0157ba9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dbb678e.css",
-    "static/js/main.19da3136.js"
+    "static/css/main.ef734595.css",
+    "static/js/main.b2674f3f.js"
   ]
 }
